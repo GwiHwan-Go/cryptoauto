@@ -28,5 +28,6 @@ pip3로 pyupbit 설치: pip3 install pyupbit
 
 프로세스 종료(PID는 ps ax | grep .py를 했을때 확인 가능): kill -9 PID
 
+------------------------------------------------------------------------
 
 references : youtube-jocoding/pyupbit-autotrade   , sharebook-kr/book-cryptocurrency
