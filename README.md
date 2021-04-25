@@ -2,8 +2,10 @@
 make auto trade of cryptocurrency on bithumb or upbit
 
 
-Ubuntu 서버 명령어
+-----------------------------------------
 
+Ubuntu 서버 명령어
+----------------------------------------
 현재 경로 상세 출력: ls -al
 
 경로 이동: cd 경로
