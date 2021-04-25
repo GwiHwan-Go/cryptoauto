@@ -14,6 +14,9 @@ https://www.youtube.com/watch?v=5vofEMqMyGk&t=185s
 
 Ubuntu 서버 명령어
 ----------------------------------------
+
+한국시각으로 맞춰주기: sudo ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
+
 현재 경로 상세 출력: ls -al
 
 경로 이동: cd 경로
