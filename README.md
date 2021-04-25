@@ -18,7 +18,7 @@ Ubuntu 서버 명령어
 
 경로 이동: cd 경로
 
-vim 에디터로 파일 열기: vim bitcoinAutoTrade.py
+vim 에디터로 파일 열기: vim crypto_autotrade.py
 
 vim 에디터 입력: i
 
@@ -30,7 +30,7 @@ pip3 설치: sudo apt install python3-pip
 
 pip3로 pyupbit 설치: pip3 install pyupbit
 
-백그라운드 실행: nohup python3 bitcoinAutoTrade.py > output.log &
+백그라운드 실행: nohup python3 crypto_autotrade.py > output.log &
 
 실행되고 있는지 확인: ps ax | grep .py
 
