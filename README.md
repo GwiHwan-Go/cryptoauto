@@ -1,6 +1,14 @@
 # cryptoauto
 make auto trade of cryptocurrency on bithumb or upbit
 
+----------------------------------------
+cloud 서버에서 돌리기
+----------------------------------------
+AWS 프리티어
+
+https://www.youtube.com/watch?v=5vofEMqMyGk&t=185s
+17:36-18:27
+
 
 -----------------------------------------
 
